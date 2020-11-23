@@ -20,4 +20,4 @@ api = Api(app)
 api.add_resource(Create, '/create')
 api.add_resource(Show, '/show')
 
-app.run(port=5000,debug=True)
+# app.run(port=5000,debug=True)
